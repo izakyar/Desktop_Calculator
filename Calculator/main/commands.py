@@ -11,6 +11,7 @@ Ts file contains all the commands, no this will not be a REPL
 But it will make functional buttons easier to  reproduce
 
 TODO:
+JSON File for settings (float decimals, )
 UI for Linux Systems.
 functional Regex -> Converts Fractions inputted into functions as float for ease of use (Maybe potentially un needed)
 stat tests

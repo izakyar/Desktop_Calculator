@@ -22,9 +22,7 @@ def out(msg: str) -> None:
     console.log(f"[green] [✓] [/]\n {msg}")
 
 
-yay("Hi")
-nay("bye")
-info("info")
+
 
 
 
